@@ -1,0 +1,8 @@
+:root {
+    --dark: rgb(18, 28, 51);
+    --light: rgb(255, 255, 255);
+    --hover: rgb(137,213,201);
+    --font: rgb(148,160,182);
+    --light-dark: rgb(19,43,53);
+    --spacing: 1.5rem;
+}
